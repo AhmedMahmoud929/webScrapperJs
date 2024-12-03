@@ -13,7 +13,7 @@ A Node.js web scraping application that collects car listing data from dubicars.
 
 ## 📂 Project Structure
 
-\`\`\`
+```
 WEBSCRABBERJS/
 ├── 📁 helpers/
 │ ├── 📄 csvReader.js # CSV file reading utility
@@ -23,7 +23,7 @@ WEBSCRABBERJS/
 ├── 📄 extractData.js # Script to extract car details
 ├── 📄 extractPages.js # Script to extract car listing pages
 └── 📦 package.json
-\`\`\`
+```
 
 ## 🛠️ Prerequisites
 
